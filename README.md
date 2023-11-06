@@ -1,9 +1,9 @@
 # Thiolutin
-Scripts for manuscript on thiolutin treatment of yeast
-The scripts work sequentially on samples working from fastq through generating heatmaps generated for figures
-The scripts are run sequentially with input being the output of the preceding script
-Order of scripts is annotated by the prefixes. Scripts also require additional files to run, such as bedFileIDs.txt and sampleInfo.csv
-Examples of above files are also provided
+Scripts for manuscript on thiolutin treatment of yeast.
+The scripts work sequentially on samples working from fastq through generating heatmaps generated for figures.
+The scripts are run sequentially with input being the output of the preceding script.
+Order of scripts is annotated by the prefixes. Scripts also require additional files to run, such as bedFileIDs.txt and sampleInfo.csv.
+Examples of above files are also provided.
 
 1_fastq_trimming.sh performs FastQC on fastq files and trims adaptors with paired and unpaired read output
 
