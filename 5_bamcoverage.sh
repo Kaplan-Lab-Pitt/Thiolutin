@@ -1,6 +1,6 @@
 #!/bin/bash
 
-moduel purge
+module purge
 module load deeptools/3.3.0
 module load parallel/2017-05-22
 module load kentutils/v370
